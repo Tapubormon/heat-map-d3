@@ -23,6 +23,6 @@ This project visualizes global temperature variances from 1753 to 2015 using a h
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-username.github.io/heatmap-d3)
+[Click here to view the live project](https://tapubormon.github.io/heat-map-d3/)
 
 
